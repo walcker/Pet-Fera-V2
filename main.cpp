@@ -148,6 +148,7 @@ int main(int argc, char const *argv[]){
   cout << "CRMV: " << tr.getCor() << endl;
   cout << "Data de contatação: " << tr.getData() << endl;
 
+  
 	return 0;
 }
 
